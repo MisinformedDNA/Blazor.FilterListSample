@@ -1,0 +1,47 @@
+﻿@page "/"
+@inherits IndexModel
+
+<div class="row">
+    <section class="content">
+        <header class="title">
+            <img src="images/star-wars-logo.jpg" alt="Star Wars Canon Checklist" />
+        </header>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <_HeaderOptions MediaTypes="@MediaTypes" OnStateChange="@HeaderOptionsChanged" />
+                <div class="table-container">
+                    <table class="table table-filter">
+                        <tbody>
+                            @foreach (var media in MediaList)
+                            {
+                                var mediaType = MediaTypes.FirstOrDefault(t => t.ClassName == media.Type);
+                                if (mediaType == null)
+                                {
+                                    Console.WriteLine($"Error: {media.Id}");
+                                    continue;
+                                }
+
+                                <_ChecklistRow media="@media" IsHidden="@mediaType.IsHidden" OnStateChange="@ChecklistRowChanged" />
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+@functions{
+    public void HeaderOptionsChanged()
+    {
+        StateHasChanged();
+    }
+
+    void ChecklistRowChanged()
+    {
+        var checkedList = MediaList
+            .Select(m => new CheckedMedia { MediaId = m.Id, IsChecked = m.IsChecked })
+            .Where(m => m.IsChecked)
+            .ToArray();
+    }
+}

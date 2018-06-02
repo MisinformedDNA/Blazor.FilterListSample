@@ -1,0 +1,11 @@
+﻿<span ref="Span"></span>
+
+@functions{
+    [Parameter] string Content { get; set; }
+    private ElementRef Span;
+
+    protected override void OnAfterRender()
+    {
+        Microsoft.AspNetCore.Blazor.Browser.Interop.RegisteredFunction.Invoke<bool>("RawHtml", Span, Content);
+    }
+}

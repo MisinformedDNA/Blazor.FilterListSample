@@ -1,0 +1,23 @@
+﻿<td class="@MediaType.ClassName">
+    @MediaType.DisplayName
+    <br>
+    @{
+        var messageVerb = !MediaType.IsHidden ? "hide" : "show";
+        var message = $"(click to {messageVerb})";
+    }
+    <a href="#" onclick="@ToggleHidden">@message</a>
+</td>
+
+@functions {
+    [Parameter]
+    private MediaType MediaType { get; set; }
+
+    [Parameter]
+    private Action OnStateChange { get; set; }
+
+    void ToggleHidden()
+    {
+        MediaType.IsHidden = !MediaType.IsHidden;
+        OnStateChange?.Invoke();
+    }
+}

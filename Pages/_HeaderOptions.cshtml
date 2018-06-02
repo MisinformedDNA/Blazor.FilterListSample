@@ -1,0 +1,29 @@
+﻿<table border="1" cellpadding="4" cellspacing="0" class="header-options">
+    <tbody>
+        <tr>
+            @for (int i = 0; i < 5; i++)
+            {
+                <_HeaderOption MediaType="@MediaTypes[i]" OnStateChange="@Refresh" />
+            }
+        </tr>
+        <tr>
+            @for (int i = 5; i < 10; i++)
+            {
+                <_HeaderOption MediaType="@MediaTypes[i]" OnStateChange="@Refresh" />
+            }
+        </tr>
+    </tbody>
+</table>
+
+@functions{ 
+    [Parameter]
+    MediaType[] MediaTypes { get; set; }
+
+    [Parameter]
+    private Action OnStateChange { get; set; }
+
+    public void Refresh()
+    {
+        OnStateChange?.Invoke();
+    }
+}

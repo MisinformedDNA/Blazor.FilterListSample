@@ -1,0 +1,26 @@
+﻿<tr class="@Media.Type @(Media.IsChecked ? "checked" : "") @(!IsHidden ? "show" : "hide")">
+    <td>
+        <div class="ckbox">
+            <input type="checkbox" checked="@Media.IsChecked" />
+        </div>
+    </td>
+    <td>
+        <div class="media">
+            <div class="media-body">
+                <span class="media-meta pull-right"><RawView Content="@Media.Year" /></span>
+                <h4 class="title">
+                    @Media.Title
+                    <span class="pull-right pagado">(@Media.Type)</span>
+                </h4>
+            </div>
+        </div>
+    </td>
+</tr>
+
+@functions {
+    [Parameter]
+    Media Media { get; set; }
+
+    [Parameter]
+    bool IsHidden { get; set; }
+}

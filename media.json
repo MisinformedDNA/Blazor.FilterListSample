@@ -1,0 +1,6218 @@
+[
+    {
+        "Id": 1,
+        "Title": "A Recipe for Death",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 0,
+        "Year": ""
+    },
+    {
+        "Id": 779,
+        "Title": "Star Wars 26: Yoda's Secret War, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 1,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 3,
+        "Title": "Star Wars 27: Yoda's Secret War, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 2,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 4,
+        "Title": "Star Wars 28: Yoda's Secret War, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 3,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 5,
+        "Title": "Star Wars 29: Yoda's Secret War, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 4,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 6,
+        "Title": "Star Wars 30: Yoda's Secret War, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 5,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 7,
+        "Title": "Darth Maul, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 6,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 8,
+        "Title": "Darth Maul, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 7,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 9,
+        "Title": "Darth Maul, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 8,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 10,
+        "Title": "Darth Maul, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 9,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 11,
+        "Title": "Darth Maul, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 10,
+        "Year": "Approx. 32 BBY"
+    },
+    {
+        "Id": 12,
+        "Title": "Star Wars: Episode I The Phantom Menace",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 11,
+        "Year": "32 BBY"
+    },
+    {
+        "Id": 13,
+        "Title": "The Phantom Menace",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 12,
+        "Year": "32 BBY"
+    },
+    {
+        "Id": 14,
+        "Title": "The Phantom Menace Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 13,
+        "Year": "32 BBY"
+    },
+    {
+        "Id": 15,
+        "Title": "Star Wars Journeys: The Phantom Menace",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 14,
+        "Year": "32 BBY"
+    },
+    {
+        "Id": 16,
+        "Title": "The Prequel Trilogy Stories",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 15,
+        "Year": "32&#8211;19 BBY"
+    },
+    {
+        "Id": 17,
+        "Title": "Star Wars: The Prequel Trilogy – A Graphic Novel",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 16,
+        "Year": "32&#8211;19 BBY"
+    },
+    {
+        "Id": 18,
+        "Title": "Star Wars Journeys: Beginnings",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 17,
+        "Year": "32&#8211;19 BBY"
+    },
+    {
+        "Id": 19,
+        "Title": "5-Minute Star Wars Stories",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 18,
+        "Year": "32 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 20,
+        "Title": "5-Minute Star Wars Stories Strike Back",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 19,
+        "Year": "32 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 21,
+        "Title": "Star Wars Battlefront II",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 20,
+        "Year": "32 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 22,
+        "Title": "Probe Droid Problem",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 21,
+        "Year": "32 BBY"
+    },
+    {
+        "Id": 23,
+        "Title": "Obi-Wan &amp; Anakin, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 22,
+        "Year": "29 BBY"
+    },
+    {
+        "Id": 24,
+        "Title": "Obi-Wan &amp; Anakin, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 23,
+        "Year": "29 BBY"
+    },
+    {
+        "Id": 25,
+        "Title": "Obi-Wan &amp; Anakin, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 24,
+        "Year": "29 BBY"
+    },
+    {
+        "Id": 26,
+        "Title": "Obi-Wan &amp; Anakin, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 25,
+        "Year": "29 BBY"
+    },
+    {
+        "Id": 27,
+        "Title": "Obi-Wan &amp; Anakin, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 26,
+        "Year": "29 BBY"
+    },
+    {
+        "Id": 28,
+        "Title": "Star Wars: Episode II Attack of the Clones",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 27,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 29,
+        "Title": "Attack of the Clones",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 28,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 30,
+        "Title": "Attack of the Clones Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 29,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 31,
+        "Title": "Jedi of the Republic&#8212;Mace Windu, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 30,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 32,
+        "Title": "Jedi of the Republic&#8212;Mace Windu, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 31,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 33,
+        "Title": "Jedi of the Republic&#8212;Mace Windu, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 32,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 34,
+        "Title": "Jedi of the Republic&#8212;Mace Windu, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 33,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 35,
+        "Title": "Jedi of the Republic&#8212;Mace Windu, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 34,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 36,
+        "Title": "The Clone Wars: Season 2: Episode 16: \"Cat and Mouse\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 35,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 37,
+        "Title": "The Clone Wars: Season 1: Episode 16: \"The Hidden Enemy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 36,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 38,
+        "Title": "Star Wars: The Clone Wars",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 37,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 39,
+        "Title": "The Clone Wars: Season 3: Episode 1: \"Clone Cadets\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 38,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 40,
+        "Title": "The Clone Wars: Season 3: Episode 3: \"Supply Lines\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 39,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 41,
+        "Title": "The Clone Wars: Season 1: Episode 1: \"Ambush\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 40,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 42,
+        "Title": "The Clone Wars: Season 1: Episode 2: \"Rising Malevolence\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 41,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 43,
+        "Title": "The Clone Wars: Season 1: Episode 3: \"Shadow of Malevolence\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 42,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 44,
+        "Title": "The Clone Wars: Season 1: Episode 4: \"Destroy Malevolence\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 43,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 45,
+        "Title": "The Clone Wars: Season 1: Episode 5: \"Rookies\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 44,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 46,
+        "Title": "The Clone Wars: Season 1: Episode 6: \"Downfall of a Droid\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 45,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 47,
+        "Title": "The Clone Wars: Season 1: Episode 7: \"Duel of the Droids\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 46,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 48,
+        "Title": "The Clone Wars: Season 1: Episode 8: \"Bombad Jedi\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 47,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 49,
+        "Title": "The Clone Wars: Season 1: Episode 9: \"Cloak of Darkness\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 48,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 50,
+        "Title": "The Clone Wars: Season 1: Episode 10: \"Lair of Grievous\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 49,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 51,
+        "Title": "The Clone Wars: Season 1: Episode 11: \"Dooku Captured\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 50,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 52,
+        "Title": "The Clone Wars: Season 1: Episode 12: \"The Gungan General\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 51,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 53,
+        "Title": "The Clone Wars: Season 1: Episode 13: \"Jedi Crash\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 52,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 54,
+        "Title": "The Clone Wars: Season 1: Episode 14: \"Defenders of Peace\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 53,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 55,
+        "Title": "The Clone Wars: Season 1: Episode 15: \"Trespass\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 54,
+        "Year": "22 BBY"
+    },
+    {
+        "Id": 56,
+        "Title": "The Clone Wars: Season 1: Episode 17: \"Blue Shadow Virus\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 55,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 57,
+        "Title": "The Clone Wars: Season 1: Episode 18: \"Mystery of a Thousand Moons\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 56,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 58,
+        "Title": "The Clone Wars: Season 1: Episode 19: \"Storm Over Ryloth\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 57,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 59,
+        "Title": "The Clone Wars: Season 1: Episode 20: \"Innocents of Ryloth\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 58,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 60,
+        "Title": "The Clone Wars: Season 1: Episode 21: \"Liberty on Ryloth\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 59,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 61,
+        "Title": "The Clone Wars: Season 2: Episode 1: \"Holocron Heist\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 60,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 62,
+        "Title": "The Clone Wars: Season 2: Episode 2: \"Cargo of Doom\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 61,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 63,
+        "Title": "The Clone Wars: Season 2: Episode 3: \"Children of the Force\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 62,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 64,
+        "Title": "The Clone Wars: Season 2: Episode 17: \"Bounty Hunters\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 63,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 65,
+        "Title": "The Clone Wars: Season 2: Episode 18: \"The Zillo Beast\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 64,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 66,
+        "Title": "The Clone Wars: Season 2: Episode 19: \"The Zillo Beast Strikes Back\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 65,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 67,
+        "Title": "The Clone Wars: Season 2: Episode 4: \"Senate Spy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 66,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 68,
+        "Title": "The Clone Wars: Season 2: Episode 5: \"Landing at Point Rain\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 67,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 69,
+        "Title": "The Clone Wars: Season 2: Episode 6: \"Weapons Factory\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 68,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 70,
+        "Title": "The Clone Wars: Season 2: Episode 7: \"Legacy of Terror\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 69,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 71,
+        "Title": "The Clone Wars: Season 2: Episode 8: \"Brain Invaders\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 70,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 72,
+        "Title": "The Clone Wars: Season 2: Episode 9: \"Grievous Intrigue\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 71,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 73,
+        "Title": "The Clone Wars: Season 2: Episode 10: \"The Deserter\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 72,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 74,
+        "Title": "The Clone Wars: Season 2: Episode 11: \"Lightsaber Lost\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 73,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 75,
+        "Title": "The Clone Wars: Season 2: Episode 12: \"The Mandalore Plot\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 74,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 76,
+        "Title": "The Clone Wars: Season 2: Episode 13: \"Voyage of Temptation\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 75,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 77,
+        "Title": "The Clone Wars: Season 2: Episode 14: \"Duchess of Mandalore\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 76,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 78,
+        "Title": "Catalyst: A Rogue One Novel",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 77,
+        "Year": "21&#8211;17 BBY"
+    },
+    {
+        "Id": 79,
+        "Title": "The Clone Wars: Season 2: Episode 20: \"Death Trap\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 78,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 80,
+        "Title": "The Clone Wars: Season 2: Episode 21: \"R2 Come Home\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 79,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 81,
+        "Title": "The Clone Wars: Season 2: Episode 22: \"Lethal Trackdown\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 80,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 82,
+        "Title": "The Clone Wars: Season 3: Episode 5: \"Corruption\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 81,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 83,
+        "Title": "The Clone Wars: Season 3: Episode 6: \"The Academy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 82,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 84,
+        "Title": "The Clone Wars: Season 3: Episode 7: \"Assassin\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 83,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 85,
+        "Title": "The Clone Wars: Season 3: Episode 2: \"ARC Troopers\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 84,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 86,
+        "Title": "The Clone Wars: Season 3: Episode 4: \"Sphere of Influence\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 85,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 87,
+        "Title": "The Clone Wars: Season 3: Episode 8: \"Evil Plans\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 86,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 88,
+        "Title": "The Clone Wars: Season 1: Episode 22: \"Hostage Crisis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 87,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 89,
+        "Title": "The Clone Wars: Season 3: Episode 9: \"Hunt for Ziro\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 88,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 90,
+        "Title": "Forces of Destiny: Episode 12: \"Teach You, I Will\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 89,
+        "Year": "Approx. 21 BBY"
+    },
+    {
+        "Id": 91,
+        "Title": "Forces of Destiny: Episode 4: \"The Padawan Path\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 90,
+        "Year": "Approx. 21 BBY"
+    },
+    {
+        "Id": 92,
+        "Title": "Forces of Destiny: Daring Adventures: Volume 2",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 91,
+        "Year": ""
+    },
+    {
+        "Id": 93,
+        "Title": "The Clone Wars: Season 3: Episode 10: \"Heroes on Both Sides\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 92,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 94,
+        "Title": "The Clone Wars: Season 3: Episode 11: \"Pursuit of Peace\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 93,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 95,
+        "Title": "The Clone Wars: Season 2: Episode 15: \"Senate Murders\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 94,
+        "Year": "21 BBY"
+    },
+    {
+        "Id": 96,
+        "Title": "The Clone Wars: Season 3: Episode 12: \"Nightsisters\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 95,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 97,
+        "Title": "The Clone Wars: Season 3: Episode 13: \"Monster\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 96,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 98,
+        "Title": "The Clone Wars: Season 3: Episode 14: \"Witches of the Mist\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 97,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 99,
+        "Title": "The Clone Wars: Season 3: Episode 15: \"Overlords\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 98,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 100,
+        "Title": "The Clone Wars: Season 3: Episode 16: \"Altar of Mortis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 99,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 101,
+        "Title": "The Clone Wars: Season 3: Episode 17: \"Ghosts of Mortis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 100,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 102,
+        "Title": "The Clone Wars: Season 3: Episode 18: \"The Citadel\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 101,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 103,
+        "Title": "The Clone Wars: Season 3: Episode 19: \"Counterattack\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 102,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 104,
+        "Title": "The Clone Wars: Season 3: Episode 20: \"Citadel Rescue\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 103,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 105,
+        "Title": "The Clone Wars: Season 3: Episode 21: \"Padawan Lost\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 104,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 106,
+        "Title": "The Clone Wars: Season 3: Episode 22: \"Wookiee Hunt\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 105,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 107,
+        "Title": "The Clone Wars: Season 4: Episode 1: \"Water War\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 106,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 108,
+        "Title": "The Clone Wars: Season 4: Episode 2: \"Gungan Attack\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 107,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 109,
+        "Title": "The Clone Wars: Season 4: Episode 3: \"Prisoners\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 108,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 110,
+        "Title": "The Clone Wars: Season 4: Episode 4: \"Shadow Warrior\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 109,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 111,
+        "Title": "The Clone Wars: Season 4: Episode 5: \"Mercy Mission\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 110,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 112,
+        "Title": "The Clone Wars: Season 4: Episode 6: \"Nomad Droids\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 111,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 113,
+        "Title": "The Clone Wars: Season 4: Episode 7: \"Darkness on Umbara\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 112,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 114,
+        "Title": "The Clone Wars: Season 4: Episode 8: \"The General\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 113,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 115,
+        "Title": "The Clone Wars: Season 4: Episode 9: \"Plan of Dissent\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 114,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 116,
+        "Title": "The Clone Wars: Season 4: Episode 10: \"Carnage of Krell\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 115,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 117,
+        "Title": "The Clone Wars: Season 4: Episode 11: \"Kidnapped\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 116,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 118,
+        "Title": "The Clone Wars: Season 4: Episode 12: \"Slaves of the Republic\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 117,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 119,
+        "Title": "The Clone Wars: Season 4: Episode 13: \"Escape from Kadavo\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 118,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 120,
+        "Title": "The Clone Wars: Season 4: Episode 14: \"A Friend in Need\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 119,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 121,
+        "Title": "The Clone Wars: Season 4: Episode 15: \"Deception\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 120,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 122,
+        "Title": "The Clone Wars: Season 4: Episode 16: \"Friends and Enemies\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 121,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 123,
+        "Title": "The Clone Wars: Season 4: Episode 17: \"The Box\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 122,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 124,
+        "Title": "The Clone Wars: Season 4: Episode 18: \"Crisis on Naboo\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 123,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 125,
+        "Title": "The Clone Wars: Season 4: Episode 19: \"Massacre\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 124,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 126,
+        "Title": "The Clone Wars: Season 4: Episode 20: \"Bounty\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 125,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 127,
+        "Title": "The Clone Wars: Season 4: Episode 21: \"Brothers\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 126,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 128,
+        "Title": "The Clone Wars: Season 4: Episode 22: \"Revenge\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 127,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 129,
+        "Title": "The Clone Wars: Season 5: Episode 2: \"A War on Two Fronts\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 128,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 130,
+        "Title": "The Clone Wars: Season 5: Episode 3: \"Front Runners\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 129,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 131,
+        "Title": "The Clone Wars: Season 5: Episode 4: \"The Soft War\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 130,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 132,
+        "Title": "The Clone Wars: Season 5: Episode 5: \"Tipping Points\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 131,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 133,
+        "Title": "The Clone Wars: Season 5: Episode 6: \"The Gathering\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 132,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 134,
+        "Title": "The Clone Wars: Season 5: Episode 7: \"A Test of Strength\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 133,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 135,
+        "Title": "The Clone Wars: Season 5: Episode 8: \"Bound for Rescue\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 134,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 136,
+        "Title": "The Clone Wars: Season 5: Episode 9: \"A Necessary Bond\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 135,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 137,
+        "Title": "The Clone Wars: Season 5: Episode 10: \"Secret Weapons\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 136,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 138,
+        "Title": "The Clone Wars: Season 5: Episode 11: \"A Sunny Day in the Void\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 137,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 139,
+        "Title": "The Clone Wars: Season 5: Episode 12: \"Missing in Action\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 138,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 140,
+        "Title": "The Clone Wars: Season 5: Episode 13: \"Point of No Return\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 139,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 141,
+        "Title": "The Clone Wars: Season 5: Episode 1: \"Revival\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 140,
+        "Year": "20 BBY"
+    },
+    {
+        "Id": 142,
+        "Title": "The Clone Wars: Season 5: Episode 14: \"Eminence\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 141,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 143,
+        "Title": "The Clone Wars: Season 5: Episode 15: \"Shades of Reason\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 142,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 144,
+        "Title": "The Clone Wars: Season 5: Episode 16: \"The Lawless\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 143,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 145,
+        "Title": "Forces of Destiny: Episode 6: \"The Imposter Inside\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 144,
+        "Year": "Approx. 19 BBY"
+    },
+    {
+        "Id": 146,
+        "Title": "Star Wars Adventures: Forces of Destiny: Ahsoka &amp; Padmé",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 145,
+        "Year": "Approx. 19 BBY"
+    },
+    {
+        "Id": 147,
+        "Title": "Forces of Destiny: Daring Adventures: Volume 1",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 146,
+        "Year": "Approx. 19 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 148,
+        "Title": "Forces of Destiny: Episode 10: \"The Starfighter Stunt\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 147,
+        "Year": ""
+    },
+    {
+        "Id": 149,
+        "Title": "The Clone Wars: Season 5: Episode 17: \"Sabotage\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 148,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 150,
+        "Title": "The Clone Wars: Season 5: Episode 18: \"The Jedi Who Knew Too Much\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 149,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 151,
+        "Title": "The Clone Wars: Season 5: Episode 19: \"To Catch a Jedi\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 150,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 152,
+        "Title": "The Clone Wars: Season 5: Episode 20: \"The Wrong Jedi\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 151,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 153,
+        "Title": "The Clone Wars: Season 6: Episode 1: \"The Unknown\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 152,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 154,
+        "Title": "The Clone Wars: Season 6: Episode 2: \"Conspiracy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 153,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 155,
+        "Title": "The Clone Wars: Season 6: Episode 3: \"Fugitive\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 154,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 156,
+        "Title": "The Clone Wars: Season 6: Episode 4: \"Orders\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 155,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 157,
+        "Title": "The Clone Wars: Season 6: Episode 5: \"An Old Friend\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 156,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 158,
+        "Title": "The Clone Wars: Season 6: Episode 6: \"The Rise of Clovis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 157,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 159,
+        "Title": "The Clone Wars: Season 6: Episode 7: \"Crisis at the Heart\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 158,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 160,
+        "Title": "The Clone Wars: Season 6: Episode 8: \"The Disappeared, Part I\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 159,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 161,
+        "Title": "The Clone Wars: Season 6: Episode 9: \"The Disappeared, Part II\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 160,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 162,
+        "Title": "The Clone Wars: Season 6: Episode 10: \"The Lost One\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 161,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 163,
+        "Title": "The Clone Wars: Season 6: Episode 11: \"Voices\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 162,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 164,
+        "Title": "The Clone Wars: Season 6: Episode 12: \"Destiny\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 163,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 165,
+        "Title": "The Clone Wars: Season 6: Episode 13: \"Sacrifice\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 164,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 166,
+        "Title": "The Clone Wars: Unfinished Episode: \"A Death on Utapau\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 165,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 167,
+        "Title": "The Clone Wars: Unfinished Episode: \"In Search of the Crystal\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 166,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 168,
+        "Title": "The Clone Wars: Unfinished Episode: \"Crystal Crisis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 167,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 169,
+        "Title": "The Clone Wars: Unfinished Episode: \"The Big Bang\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 168,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 170,
+        "Title": "The Clone Wars: Unfinished Episode: \"The Bad Batch\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 169,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 171,
+        "Title": "The Clone Wars: Unfinished Episode: \"A Distant Echo\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 170,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 172,
+        "Title": "The Clone Wars: Unfinished Episode: \"On the Wings of Keeradaks\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 171,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 173,
+        "Title": "The Clone Wars: Unfinished Episode: \"Unfinished Business\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 172,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 174,
+        "Title": "Kindred Spirits",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 173,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 175,
+        "Title": "Dark Disciple",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 174,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 176,
+        "Title": "Darth Maul—Son of Dathomir, Part One",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 175,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 177,
+        "Title": "Darth Maul—Son of Dathomir, Part Two",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 176,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 178,
+        "Title": "Darth Maul—Son of Dathomir, Part Three",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 177,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 179,
+        "Title": "Darth Maul—Son of Dathomir, Part Four",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 178,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 180,
+        "Title": "Kanan 7: First Blood, Part I: The Corridors of Coruscant",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 179,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 181,
+        "Title": "Kanan 8: First Blood, Part II: The Towers of the Temple",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 180,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 182,
+        "Title": "Kanan 9: First Blood, Part III: The Canyons of Kardoa",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 181,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 183,
+        "Title": "Kanan 10: First Blood, Part IV: The Mesas of Mygeeto",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 182,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 184,
+        "Title": "Kanan 11: First Blood, Part V: The Fog of War",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 183,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 185,
+        "Title": "Star Wars: Episode III Revenge of the Sith",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 184,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 186,
+        "Title": "Revenge of the Sith",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 185,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 187,
+        "Title": "Revenge of the Sith Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 186,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 188,
+        "Title": "Kanan 1: The Last Padawan, Part I: Fight",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 187,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 189,
+        "Title": "Kanan 2: The Last Padawan, Part II: Flight",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 188,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 190,
+        "Title": "Darth Vader: Dark Lord of the Sith 1: The Chosen One, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 189,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 191,
+        "Title": "Darth Vader: Dark Lord of the Sith 2: The Chosen One, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 190,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 192,
+        "Title": "Darth Vader: Dark Lord of the Sith 3: The Chosen One, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 191,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 193,
+        "Title": "Darth Vader: Dark Lord of the Sith 4: The Chosen One, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 192,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 194,
+        "Title": "Darth Vader: Dark Lord of the Sith 5: The Chosen One, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 193,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 195,
+        "Title": "Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 194,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 196,
+        "Title": "Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 195,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 197,
+        "Title": "Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 196,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 198,
+        "Title": "Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 197,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 199,
+        "Title": "Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 198,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 200,
+        "Title": "Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 199,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 201,
+        "Title": "Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 200,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 202,
+        "Title": "Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 201,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 203,
+        "Title": "Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 202,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 204,
+        "Title": "Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 203,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 205,
+        "Title": "Darth Vader: Dark Lord of the Sith 16: Burning Seas, Part IV",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 204,
+        "Year": "19 BBY"
+    },
+    {
+        "Id": 206,
+        "Title": "No Good Deed...",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 205,
+        "Year": ""
+    },
+    {
+        "Id": 207,
+        "Title": "Kanan 3: The Last Padawan, Part III: Pivot",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 206,
+        "Year": "19&#8211;18 BBY"
+    },
+    {
+        "Id": 208,
+        "Title": "Kanan 4: The Last Padawan, Part IV: Catch",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 207,
+        "Year": "18 BBY"
+    },
+    {
+        "Id": 209,
+        "Title": "Kanan 5: The Last Padawan, Part V: Release",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 208,
+        "Year": "18 BBY"
+    },
+    {
+        "Id": 210,
+        "Title": "Adventures in Wild Space: The Escape",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 209,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 211,
+        "Title": "Adventures in Wild Space: The Snare",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 210,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 212,
+        "Title": "Adventures in Wild Space: The Nest",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 211,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 213,
+        "Title": "Adventures in Wild Space: The Steal",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 212,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 214,
+        "Title": "Adventures in Wild Space: The Dark",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 213,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 215,
+        "Title": "Adventures in Wild Space: The Cold",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 214,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 216,
+        "Title": "Adventures in Wild Space: The Rescue",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 215,
+        "Year": "Approx. 18 BBY"
+    },
+    {
+        "Id": 217,
+        "Title": "Ahsoka",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 216,
+        "Year": "18 BBY"
+    },
+    {
+        "Id": 218,
+        "Title": "The Voice of the Empire",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 217,
+        "Year": "Approx. 17 BBY"
+    },
+    {
+        "Id": 219,
+        "Title": "Orientation",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 218,
+        "Year": "14 BBY"
+    },
+    {
+        "Id": 220,
+        "Title": "Lords of the Sith",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 219,
+        "Year": "14 BBY"
+    },
+    {
+        "Id": 221,
+        "Title": "Lords of the Sith",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 220,
+        "Year": "14 BBY"
+    },
+    {
+        "Id": 222,
+        "Title": "Mercy Mission",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 221,
+        "Year": "14 BBY"
+    },
+    {
+        "Id": 223,
+        "Title": "Tarkin",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 222,
+        "Year": "14 BBY"
+    },
+    {
+        "Id": 224,
+        "Title": "TK-462",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 223,
+        "Year": "14&#8211;4 BBY"
+    },
+    {
+        "Id": 225,
+        "Title": "Rebel Rising",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 224,
+        "Year": "13&#8211;0 BBY"
+    },
+    {
+        "Id": 226,
+        "Title": "Thrawn",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 225,
+        "Year": "Approx. 11&#8211;2 BBY"
+    },
+    {
+        "Id": 227,
+        "Title": "Thrawn, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 226,
+        "Year": "Approx. 11 BBY"
+    },
+    {
+        "Id": 228,
+        "Title": "Thrawn, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 227,
+        "Year": "Approx. 11&#8211;2 BBY"
+    },
+    {
+        "Id": 229,
+        "Title": "Thrawn, Part III",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 228,
+        "Year": "Approx. 11&#8211;2 BBY"
+    },
+    {
+        "Id": 778,
+        "Title": "Thrawn, Part IV",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 229,
+        "Year": "Approx. 11&#8211;2 BBY"
+    },
+    {
+        "Id": 231,
+        "Title": "Thrawn: Alliances",
+        "Type": "novel",
+        "IsPublished": false,
+        "Order": 230,
+        "Year": ""
+    },
+    {
+        "Id": 232,
+        "Title": "Bottleneck",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 231,
+        "Year": "11 BBY"
+    },
+    {
+        "Id": 233,
+        "Title": "A New Dawn",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 232,
+        "Year": "11 BBY"
+    },
+    {
+        "Id": 234,
+        "Title": "Star Wars 7: From the Journals of Old Ben Kenobi: \"The Last of His Breed\"",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 233,
+        "Year": "11 BBY"
+    },
+    {
+        "Id": 235,
+        "Title": "Most Wanted",
+        "Type": "novel",
+        "IsPublished": false,
+        "Order": 234,
+        "Year": ""
+    },
+    {
+        "Id": 236,
+        "Title": "Last Shot",
+        "Type": "novel",
+        "IsPublished": false,
+        "Order": 235,
+        "Year": ""
+    },
+    {
+        "Id": 237,
+        "Title": "Lando: Double or Nothing 1",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 236,
+        "Year": ""
+    },
+    {
+        "Id": 238,
+        "Title": "Solo: A Star Wars Story",
+        "Type": "film",
+        "IsPublished": false,
+        "Order": 237,
+        "Year": "Approx. 11&#8211;5 BBY"
+    },
+    {
+        "Id": 239,
+        "Title": "Solo: A Star Wars Story: Train Heist",
+        "Type": "young",
+        "IsPublished": false,
+        "Order": 238,
+        "Year": ""
+    },
+    {
+        "Id": 240,
+        "Title": "Choose Your Destiny: A Han &amp; Chewie Adventure",
+        "Type": "junior",
+        "IsPublished": false,
+        "Order": 239,
+        "Year": ""
+    },
+    {
+        "Id": 241,
+        "Title": "Lost Stars",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 240,
+        "Year": "11 BBY&#8211;5 ABY"
+    },
+    {
+        "Id": 242,
+        "Title": "Lost Stars",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 241,
+        "Year": "11 BBY&#8211;5 ABY"
+    },
+    {
+        "Id": 243,
+        "Title": "Star Wars 15: From the Journals of Old Ben Kenobi",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 242,
+        "Year": "10 BBY"
+    },
+    {
+        "Id": 244,
+        "Title": "Star Wars 20: From the Journals of Old Ben Kenobi",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 243,
+        "Year": "10 BBY"
+    },
+    {
+        "Id": 245,
+        "Title": "The End of History",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 244,
+        "Year": "Approx. 10 BBY"
+    },
+    {
+        "Id": 246,
+        "Title": "HoloNet News Report: Imperial Registration Program",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 245,
+        "Year": ""
+    },
+    {
+        "Id": 247,
+        "Title": "HoloNet News Report: Wookiee Revolt Quelled on Kashyyyk",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 246,
+        "Year": ""
+    },
+    {
+        "Id": 248,
+        "Title": "HoloNet News Special Report: Lothal Jobless Rates Hit All-time Low",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 247,
+        "Year": ""
+    },
+    {
+        "Id": 249,
+        "Title": "HoloNet News Special Report: Controversial Statue Finally Destroyed",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 248,
+        "Year": ""
+    },
+    {
+        "Id": 250,
+        "Title": "HoloNet News Special Report: Rise in Citizen Reporting Results in Captured Criminals",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 249,
+        "Year": ""
+    },
+    {
+        "Id": 251,
+        "Title": "HoloNet News Special Report: Empire Ensures New Affordable Housing on Lothal",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 250,
+        "Year": ""
+    },
+    {
+        "Id": 252,
+        "Title": "HoloNet News Special Report: Famed Imperial Pilot Moves to Lothal",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 251,
+        "Year": ""
+    },
+    {
+        "Id": 253,
+        "Title": "HoloNet News Special Report: Journalists Across Galaxy Join Press Corps",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 252,
+        "Year": ""
+    },
+    {
+        "Id": 254,
+        "Title": "HoloNet Breaking News: Unauthorized Mining Operation Halted",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 253,
+        "Year": ""
+    },
+    {
+        "Id": 255,
+        "Title": "HoloNet News Special Report: Community Leaders Discuss Capital City Improvements",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 254,
+        "Year": ""
+    },
+    {
+        "Id": 256,
+        "Title": "HoloNet News Exclusive: Mas Amedda receives Governor Arihnda Pryce for Lothal report",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 255,
+        "Year": ""
+    },
+    {
+        "Id": 257,
+        "Title": "Servants of the Empire: Edge of the Galaxy",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 256,
+        "Year": "6&#8211;5 BBY"
+    },
+    {
+        "Id": 258,
+        "Title": "Battlefront: Twilight Company",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 257,
+        "Year": "6 BBY&#8211;3 ABY"
+    },
+    {
+        "Id": 259,
+        "Title": "Star Wars Rebels: Ghost Raid",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 258,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 260,
+        "Title": "Star Wars Rebels Short 1: \"The Machine in the Ghost\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 259,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 261,
+        "Title": "Chopper Saves the Day",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 260,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 262,
+        "Title": "Rise of the Rebels",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 261,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 263,
+        "Title": "Star Wars Rebels Short 2: \"Art Attack\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 262,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 264,
+        "Title": "Sabine's Art Attack",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 263,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 265,
+        "Title": "Star Wars Rebels Short 3: \"Entanglement\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 264,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 266,
+        "Title": "Zeb to the Rescue",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 265,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 267,
+        "Title": "Ezra's Gamble",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 266,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 268,
+        "Title": "Star Wars Rebels Short 4: \"Property of Ezra Bridger\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 267,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 269,
+        "Title": "Ezra and the Pilot",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 268,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 270,
+        "Title": "Star Wars Rebels: Season 1: Episode 1, 2: \"Spark of Rebellion\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 269,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 271,
+        "Title": "Ezra's Wookiee Rescue",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 270,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 272,
+        "Title": "The Rebellion Begins",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 271,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 273,
+        "Title": "Droids in Distress",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 272,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 274,
+        "Title": "The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 273,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 275,
+        "Title": "A New Hero",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 274,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 276,
+        "Title": "Star Wars Rebels: Season 1: Episode 3: \"Droids in Distress\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 275,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 277,
+        "Title": "Star Wars Rebels: Season 1: Episode 4: \"Fighter Flight\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 276,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 278,
+        "Title": "TIE Fighter Trouble",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 277,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 279,
+        "Title": "Ring Race",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 278,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 280,
+        "Title": "Star Wars Rebels: Season 1: Episode 5: \"Rise of the Old Masters\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 279,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 281,
+        "Title": "The Inquisitor's Trap",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 280,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 282,
+        "Title": "Learning Patience",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 281,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 283,
+        "Title": "Servants of the Empire: Rebel in the Ranks",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 282,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 284,
+        "Title": "Star Wars Rebels: Season 1: Episode 6: \"Breaking Ranks\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 283,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 285,
+        "Title": "The fake Jedi",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 284,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 286,
+        "Title": "Kallus' Hunt",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 285,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 287,
+        "Title": "Star Wars Rebels: Season 1: Episode 7: \"Out of Darkness\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 286,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 288,
+        "Title": "Hera's Phantom Flight",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 287,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 289,
+        "Title": "Star Wars Rebels: Rebel Strike",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 288,
+        "Year": "5 BBY"
+    },
+    {
+        "Id": 290,
+        "Title": "Star Wars Rebels: Recon Missions",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 289,
+        "Year": "5 BBY&#8211;4 BBY"
+    },
+    {
+        "Id": 291,
+        "Title": "Star Wars Rebels: Season 1: Episode 8: \"Empire Day\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 290,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 292,
+        "Title": "Ezra's Duel with Danger",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 291,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 293,
+        "Title": "Star Wars Rebels: Season 1: Episode 9: \"Gathering Forces\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 292,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 294,
+        "Title": "Return of the Slavers",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 293,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 295,
+        "Title": "Eyes on the Prize",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 294,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 296,
+        "Title": "Kanan 6: The Last Padawan, Epilogue: Haunt",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 295,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 297,
+        "Title": "Kanan 12: First Blood, Epilogue: The Ties That Bind",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 296,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 298,
+        "Title": "Star Wars Rebels: Season 1: Episode 10: \"Path of the Jedi\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 297,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 299,
+        "Title": "Kanan's Jedi Training",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 298,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 300,
+        "Title": "Sabotaged Supplies",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 299,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 301,
+        "Title": "Star Wars Rebels: Season 1: Episode 11: \"Idiot's Array\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 300,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 302,
+        "Title": "Always Bet on Chopper",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 301,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 303,
+        "Title": "Servants of the Empire: Imperial Justice",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 302,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 304,
+        "Title": "Star Wars Rebels: Season 1: Episode 12: \"Vision of Hope\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 303,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 305,
+        "Title": "Ezra's Vision",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 304,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 306,
+        "Title": "Becoming Hunted",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 305,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 307,
+        "Title": "Assessment",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 306,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 308,
+        "Title": "Servants of the Empire: The Secret Academy",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 307,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 309,
+        "Title": "Star Wars Rebels: Season 1: Episode 13: \"Call to Action\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 308,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 310,
+        "Title": "Battle to the End",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 309,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 311,
+        "Title": "Star Wars Rebels: Season 1: Episode 14: \"Rebel Resolve\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 310,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 312,
+        "Title": "Star Wars Rebels: Season 1: Episode 15: \"Fire Across the Galaxy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 311,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 313,
+        "Title": "Senate Perspective",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 312,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 314,
+        "Title": "Ocean Rescue",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 313,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 315,
+        "Title": "Rebel Bluff",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 314,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 316,
+        "Title": "Puffer Problems",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 315,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 317,
+        "Title": "Star Wars Rebels: Season 2: Episode 1, 2: \"The Siege of Lothal\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 316,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 318,
+        "Title": "Star Wars Rebels: Team Tactics",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 317,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 319,
+        "Title": "Star Wars Rebels: Season 2: Episode 3: \"The Lost Commanders\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 318,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 320,
+        "Title": "Star Wars Rebels: Season 2: Episode 4: \"Relics of the Old Republic\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 319,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 321,
+        "Title": "Secrets of Sienar",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 320,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 322,
+        "Title": "Star Wars Rebels: Season 2: Episode 5: \"Always Two There Are\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 321,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 323,
+        "Title": "Star Wars Rebels: Season 2: Episode 6: \"Brothers of the Broken Horn\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 322,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 324,
+        "Title": "Star Wars Rebels: Strike Missions",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 323,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 325,
+        "Title": "Star Wars Rebels: Season 2: Episode 7: \"Wings of the Master\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 324,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 326,
+        "Title": "No Sympathy",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 325,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 327,
+        "Title": "Star Wars Rebels: Season 2: Episode 8: \"Blood Sisters\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 326,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 328,
+        "Title": "Too Late to Change",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 327,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 329,
+        "Title": "Always Bet on Chop",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 328,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 330,
+        "Title": "Star Wars Rebels: Season 2: Episode 9: \"Stealth Strike\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 329,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 331,
+        "Title": "A Day's Duty",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 330,
+        "Year": "4 BBY"
+    },
+    {
+        "Id": 332,
+        "Title": "Leia, Princess of Alderaan",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 331,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 333,
+        "Title": "Leia, Princess of Alderaan",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 332,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 334,
+        "Title": "Star Wars Rebels: Season 2: Episode 10: \"The Future of the Force\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 333,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 335,
+        "Title": "Ice Breaking",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 334,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 336,
+        "Title": "Vulnerable Areas",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 335,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 337,
+        "Title": "The Size of the Fight",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 336,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 338,
+        "Title": "Star Wars Rebels: Season 2: Episode 11: \"Legacy\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 337,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 339,
+        "Title": "Star Wars Rebels: Season 2: Episode 12: \"A Princess on Lothal\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 338,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 340,
+        "Title": "Forces of Destiny: Episode 8: \"Bounty of Trouble\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 339,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 341,
+        "Title": "Forces of Destiny: The Leia Chronicles",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 340,
+        "Year": ""
+    },
+    {
+        "Id": 342,
+        "Title": "Star Wars Rebels: Season 2: Episode 13: \"The Protector of Concord Dawn\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 341,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 343,
+        "Title": "Star Wars Rebels: Season 2: Episode 14: \"Legends of the Lasat\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 342,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 344,
+        "Title": "Academy Cadets",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 343,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 345,
+        "Title": "Star Wars Rebels: Season 2: Episode 15: \"The Call\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 344,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 346,
+        "Title": "Escaping the Scrap Pile",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 345,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 347,
+        "Title": "The Ballad of 264",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 346,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 348,
+        "Title": "Off the Rails",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 347,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 349,
+        "Title": "Star Wars Rebels: Season 2: Episode 16: \"Homecoming\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 348,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 350,
+        "Title": "A Time to Survive",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 349,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 351,
+        "Title": "The Wrong Crowd",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 350,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 352,
+        "Title": "Star Wars Rebels: Season 2: Episode 17: \"The Honorable Ones\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 351,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 353,
+        "Title": "Star Wars Rebels: Season 2: Episode 18: \"Shroud of Darkness\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 352,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 354,
+        "Title": "The Gangsters of Galzez",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 353,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 355,
+        "Title": "Star Wars Adventures: Forces of Destiny: Hera",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 354,
+        "Year": ""
+    },
+    {
+        "Id": 356,
+        "Title": "Star Wars Rebels: Season 2: Episode 19: \"The Forgotten Droid\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 355,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 357,
+        "Title": "The Second Chance",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 356,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 358,
+        "Title": "Star Wars Rebels: Season 2: Episode 20: \"The Mystery of Chopper Base\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 357,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 359,
+        "Title": "The Thune Cargo",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 358,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 360,
+        "Title": "The Line of Duty",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 359,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 361,
+        "Title": "Star Wars Rebels: Season 2: Episode 21, 22: \"Twilight of the Apprentice\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 360,
+        "Year": "3 BBY"
+    },
+    {
+        "Id": 362,
+        "Title": "Star Wars Rebels: Special Ops",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 361,
+        "Year": "3 BBY&#8211;2 BBY"
+    },
+    {
+        "Id": 363,
+        "Title": "Forces of Destiny: Episode 9: \"Newest Recruit\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 362,
+        "Year": ""
+    },
+    {
+        "Id": 364,
+        "Title": "Forces of Destiny: Episode 16: \"Crash Course\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 363,
+        "Year": ""
+    },
+    {
+        "Id": 365,
+        "Title": "Endangered, Part 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 364,
+        "Year": ""
+    },
+    {
+        "Id": 366,
+        "Title": "Star Wars Adventures 8",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 365,
+        "Year": ""
+    },
+    {
+        "Id": 367,
+        "Title": "Star Wars Rebels: Season 3: Episode 1, 2: \"Steps Into Shadow\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 366,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 368,
+        "Title": "Star Wars Rebels: Season 3: Episode 3: \"The Holocrons of Fate\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 367,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 369,
+        "Title": "Star Wars Rebels: Season 3: Episode 4: \"The Antilles Extraction\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 368,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 370,
+        "Title": "Star Wars Rebels: Season 3: Episode 5: \"Hera's Heroes\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 369,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 371,
+        "Title": "Sons of the Sky",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 370,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 372,
+        "Title": "Star Wars Rebels: Season 3: Episode 6: \"The Last Battle\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 371,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 373,
+        "Title": "Star Wars Rebels: Season 3: Episode 7: \"Imperial Super Commandos\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 372,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 374,
+        "Title": "Star Wars Rebels: Season 3: Episode 8: \"Iron Squadron\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 373,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 375,
+        "Title": "Star Wars Rebels: Season 3: Episode 9: \"The Wynkahthu Job\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 374,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 376,
+        "Title": "Star Wars Rebels: Season 3: Episode 10: \"An Inside Man\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 375,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 377,
+        "Title": "To Thy Metal Heart Be True",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 376,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 378,
+        "Title": "Star Wars Rebels: Season 3: Episode 11: \"Visions and Voices\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 377,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 379,
+        "Title": "Final Round",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 378,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 380,
+        "Title": "A Youth Unpromising",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 379,
+        "Year": ""
+    },
+    {
+        "Id": 381,
+        "Title": "Fifth and Final",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 380,
+        "Year": ""
+    },
+    {
+        "Id": 382,
+        "Title": "Never Far Behind",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 381,
+        "Year": ""
+    },
+    {
+        "Id": 383,
+        "Title": "Star Wars Rebels: Season 3: Episode 12, 13: \"Ghosts of Geonosis\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 382,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 384,
+        "Title": "Star Wars Rebels: Season 3: Episode 14: \"Warhead\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 383,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 385,
+        "Title": "Star Wars Rebels: Season 3: Episode 15: \"Trials of the Darksaber\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 384,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 386,
+        "Title": "Star Wars Rebels: Season 3: Episode 16: \"Legacy of Mandalore\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 385,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 387,
+        "Title": "Star Wars Rebels: Season 3: Episode 17: \"Through Imperial Eyes\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 386,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 388,
+        "Title": "Star Wars Rebels: Season 3: Episode 18: \"Secret Cargo\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 387,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 389,
+        "Title": "Star Wars Rebels: Season 3: Episode 19: \"Double Agent Droid\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 388,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 390,
+        "Title": "Star Wars Rebels: Season 3: Episode 20: \"Twin Suns\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 389,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 391,
+        "Title": "Star Wars Rebels: Season 3: Episode 21, 22: \"Zero Hour\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 390,
+        "Year": "2 BBY"
+    },
+    {
+        "Id": 392,
+        "Title": "Star Wars Rebels: Season 4: Episode 1, 2: \"Heroes of Mandalore\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 391,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 393,
+        "Title": "Star Wars Rebels: Season 4: Episode 3, 4: \"In the Name of the Rebellion\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 392,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 394,
+        "Title": "Star Wars Rebels: Season 4: Episode 5: \"The Occupation\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 393,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 395,
+        "Title": "Star Wars Rebels: Season 4: Episode 6: \"Flight of the Defender\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 394,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 396,
+        "Title": "Star Wars Rebels: Season 4: Episode 7: \"Kindred\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 395,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 397,
+        "Title": "Star Wars Rebels: Season 4: Episode 8: \"Crawler Commandeers\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 396,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 398,
+        "Title": "Star Wars Rebels: Season 4: Episode 9: \"Rebel Assault\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 397,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 399,
+        "Title": "Star Wars Rebels: Season 4: Episode 10: \"Jedi Night\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 398,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 400,
+        "Title": "Star Wars Rebels: Season 4: Episode 11: \"DUME\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 399,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 401,
+        "Title": "Star Wars Rebels: Season 4: Episode 12: \"Wolves and a Door\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 400,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 402,
+        "Title": "Star Wars Rebels: Season 4: Episode 13: \"A World Between Worlds\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 401,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 403,
+        "Title": "Star Wars Rebels: Season 4: Episode 14: \"A Fool's Hope\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 402,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 404,
+        "Title": "Star Wars Rebels: Season 4: Episode 15, 16: \"Family Reunion – and Farewell\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 403,
+        "Year": "1 BBY"
+    },
+    {
+        "Id": 405,
+        "Title": "Forces of Destiny: Episode 13: \"Accidental Allies\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 404,
+        "Year": ""
+    },
+    {
+        "Id": 406,
+        "Title": "The Sand Will Provide",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 405,
+        "Year": ""
+    },
+    {
+        "Id": 407,
+        "Title": "Star Wars: Rogue One – Cassian &amp; K-2SO Special 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 406,
+        "Year": ""
+    },
+    {
+        "Id": 408,
+        "Title": "The Mighty Chewbacca in the Forest of Fear!",
+        "Type": "young",
+        "IsPublished": false,
+        "Order": 407,
+        "Year": ""
+    },
+    {
+        "Id": 409,
+        "Title": "Forces of Destiny: Episode 7: \"The Stranger\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 408,
+        "Year": ""
+    },
+    {
+        "Id": 410,
+        "Title": "Star Wars Adventures Free Comic Book Day 2018",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 409,
+        "Year": ""
+    },
+    {
+        "Id": 411,
+        "Title": "Star Wars Adventures 10",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 410,
+        "Year": ""
+    },
+    {
+        "Id": 412,
+        "Title": "Star Wars Adventures 11",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 411,
+        "Year": ""
+    },
+    {
+        "Id": 413,
+        "Title": "Guardians of the Whills",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 412,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 414,
+        "Title": "Rogue One: A Star Wars Story",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 413,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 415,
+        "Title": "Rogue One: A Star Wars Story",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 414,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 416,
+        "Title": "Star Wars: Rogue One: A Junior Novel",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 415,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 417,
+        "Title": "Star Wars: Rogue One: Secret Mission",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 416,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 418,
+        "Title": "Star Wars: Rogue One Graphic Novel Adaptation",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 417,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 419,
+        "Title": "Rogue One Adaptation 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 418,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 420,
+        "Title": "Rogue One Adaptation 2",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 419,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 421,
+        "Title": "Rogue One Adaptation 3",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 420,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 422,
+        "Title": "Rogue One Adaptation 4",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 421,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 423,
+        "Title": "Rogue One Adaptation 5",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 422,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 424,
+        "Title": "Rogue One Adaptation 6",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 423,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 425,
+        "Title": "Raymus",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 424,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 426,
+        "Title": "Bounty Hunt",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 425,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 427,
+        "Title": "Star Wars: Episode IV A New Hope",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 426,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 428,
+        "Title": "A New Hope: The Princess, the Scoundrel, and the Farm Boy",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 427,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 429,
+        "Title": "Star Wars: A New Hope",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 428,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 430,
+        "Title": "Episode IV: A New Hope Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 429,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 431,
+        "Title": "A New Hope",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 430,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 432,
+        "Title": "The Rise of a Hero",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 431,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 433,
+        "Title": "Escape from Darth Vader",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 432,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 434,
+        "Title": "Trouble on Tatooine",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 433,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 435,
+        "Title": "Trapped in the Death Star!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 434,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 436,
+        "Title": "Death Star Battle",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 435,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 437,
+        "Title": "Star Wars: Heroes Path",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 436,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 438,
+        "Title": "The Adventures of Luke Skywalker, Jedi Knight",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 437,
+        "Year": "0 BBY&#8211;4 ABY"
+    },
+    {
+        "Id": 439,
+        "Title": "Star Wars in Pictures: The Original Trilogy",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 438,
+        "Year": "0 BBY&#8211;4 ABY"
+    },
+    {
+        "Id": 440,
+        "Title": "The Original Trilogy Stories",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 439,
+        "Year": "0 BBY&#8211;4 ABY"
+    },
+    {
+        "Id": 441,
+        "Title": "The Power of the Dark Side",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 440,
+        "Year": "0 BBY&#8211;4 ABY"
+    },
+    {
+        "Id": 442,
+        "Title": "Star Wars: The Original Trilogy &#8211; A Graphic Novel",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 441,
+        "Year": "0 BBY&#8211;4 ABY"
+    },
+    {
+        "Id": 443,
+        "Title": "Star Wars Battlefront",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 442,
+        "Year": "0 BBY&#8211;5 ABY"
+    },
+    {
+        "Id": 444,
+        "Title": "The Chewbacca Story",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 443,
+        "Year": "0 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 445,
+        "Title": "A Leader Named Leia",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 444,
+        "Year": "0 BBY&#8211;34 ABY"
+    },
+    {
+        "Id": 446,
+        "Title": "The Bucket",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 445,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 447,
+        "Title": "The Sith of Datawork",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 446,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 448,
+        "Title": "Stories in the Sand",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 447,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 449,
+        "Title": "The Red One",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 448,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 450,
+        "Title": "Reirin",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 449,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 451,
+        "Title": "Rites",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 450,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 452,
+        "Title": "You Owe Me a Ride",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 451,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 453,
+        "Title": "Laina",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 452,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 454,
+        "Title": "Fully Operational",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 453,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 455,
+        "Title": "Master and Apprentice",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 454,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 456,
+        "Title": "Beru Whitesun Lars",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 455,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 457,
+        "Title": "Of MSE-6 and Men",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 456,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 458,
+        "Title": "Change of Heart",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 457,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 459,
+        "Title": "Eclipse",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 458,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 460,
+        "Title": "The Secrets of Long Snoot",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 459,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 461,
+        "Title": "The Kloo Horn Cantina Caper",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 460,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 462,
+        "Title": "The Luckless Rodian",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 461,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 463,
+        "Title": "Not for Nothing",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 462,
+        "Year": ""
+    },
+    {
+        "Id": 464,
+        "Title": "We Don't Serve Their Kind Here",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 463,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 465,
+        "Title": "Verge of Greatness",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 464,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 466,
+        "Title": "Added Muscle",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 465,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 467,
+        "Title": "Born in the Storm",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 466,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 468,
+        "Title": "An Incident Report",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 467,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 469,
+        "Title": "The Trigger",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 468,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 470,
+        "Title": "End of Watch",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 469,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 471,
+        "Title": "The Baptist",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 470,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 472,
+        "Title": "Bump",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 471,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 473,
+        "Title": "There is Another",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 472,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 474,
+        "Title": "Time of Death",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 473,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 475,
+        "Title": "Palpatine",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 474,
+        "Year": "0 BBY"
+    },
+    {
+        "Id": 476,
+        "Title": "Contingency Plan",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 475,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 477,
+        "Title": "Sparks",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 476,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 478,
+        "Title": "Desert Son",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 477,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 479,
+        "Title": "Duty Roster",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 478,
+        "Year": "0 BBY&#8211;0 ABY"
+    },
+    {
+        "Id": 480,
+        "Title": "Grounded",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 479,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 481,
+        "Title": "The Angle",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 480,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 482,
+        "Title": "By Whatever Sun",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 481,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 483,
+        "Title": "Battlefront II: Inferno Squad",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 482,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 484,
+        "Title": "Princess Leia, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 483,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 485,
+        "Title": "Smuggler's Run: A Han Solo &amp; Chewbacca Adventure",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 484,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 486,
+        "Title": "Han and the Rebel Rescue",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 485,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 487,
+        "Title": "Smuggler's Run",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 486,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 488,
+        "Title": "Smuggler's Run, Part 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 487,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 489,
+        "Title": "Princess Leia, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 488,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 490,
+        "Title": "Princess Leia, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 489,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 491,
+        "Title": "Princess Leia, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 490,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 492,
+        "Title": "Princess Leia, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 491,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 493,
+        "Title": "One Thousand Levels Down",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 492,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 494,
+        "Title": "Chewbacca, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 493,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 495,
+        "Title": "Chewbacca, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 494,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 496,
+        "Title": "Chewbacca, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 495,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 497,
+        "Title": "Chewbacca, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 496,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 498,
+        "Title": "Chewbacca, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 497,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 499,
+        "Title": "Chewie and the Courageous Kid",
+        "Type": "young",
+        "IsPublished": false,
+        "Order": 498,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 500,
+        "Title": "The Trouble at Tibrin",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 499,
+        "Year": ""
+    },
+    {
+        "Id": 501,
+        "Title": "The Trouble at Tibrin, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 500,
+        "Year": ""
+    },
+    {
+        "Id": 502,
+        "Title": "Star Wars Adventures Annual 2018",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 501,
+        "Year": ""
+    },
+    {
+        "Id": 503,
+        "Title": "Star Wars Adventures 9",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 502,
+        "Year": ""
+    },
+    {
+        "Id": 504,
+        "Title": "Heir to the Jedi",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 503,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 505,
+        "Title": "Heir to the Jedi",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 504,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 506,
+        "Title": "The Weapon of a Jedi: A Luke Skywalker Adventure",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 505,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 507,
+        "Title": "Luke and the Lost Jedi Temple",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 506,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 508,
+        "Title": "The Weapon of a Jedi",
+        "Type": "promotional",
+        "IsPublished": true,
+        "Order": 507,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 509,
+        "Title": "The Weapon of a Jedi, Part 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 508,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 510,
+        "Title": "The Weapon of a Jedi, Part 2",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 509,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 511,
+        "Title": "The Weapon of a Jedi, Part 3",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 510,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 512,
+        "Title": "The Weapon of a Jedi, Part 4",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 511,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 513,
+        "Title": "Star Wars 1: Skywalker Strikes",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 512,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 514,
+        "Title": "Star Wars 2: Skywalker Strikes, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 513,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 515,
+        "Title": "Star Wars 3: Skywalker Strikes, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 514,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 516,
+        "Title": "Darth Vader 1: Vader",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 515,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 517,
+        "Title": "Coda",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 516,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 518,
+        "Title": "Star Wars 4: Skywalker Strikes, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 517,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 519,
+        "Title": "Darth Vader 2: Vader, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 518,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 520,
+        "Title": "Darth Vader 3: Vader, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 519,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 521,
+        "Title": "Darth Vader 4: Vader, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 520,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 522,
+        "Title": "Star Wars 5: Skywalker Strikes, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 521,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 523,
+        "Title": "Darth Vader 5: Vader, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 522,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 524,
+        "Title": "Star Wars 6: Skywalker Strikes, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 523,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 525,
+        "Title": "Darth Vader 6: Vader, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 524,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 526,
+        "Title": "Star Wars 8: Showdown on the Smuggler's Moon, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 525,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 527,
+        "Title": "Star Wars 9: Showdown on the Smuggler's Moon, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 526,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 528,
+        "Title": "Star Wars 10: Showdown on the Smuggler's Moon, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 527,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 529,
+        "Title": "Star Wars 11: Showdown on the Smuggler's Moon, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 528,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 530,
+        "Title": "Star Wars 12: Showdown on the Smuggler's Moon, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 529,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 531,
+        "Title": "Darth Vader 7: Shadows and Secrets, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 530,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 532,
+        "Title": "Darth Vader 8: Shadows and Secrets, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 531,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 533,
+        "Title": "Darth Vader 9: Shadows and Secrets, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 532,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 534,
+        "Title": "Darth Vader 10: Shadows and Secrets, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 533,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 535,
+        "Title": "Darth Vader 11: Shadows and Secrets, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 534,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 536,
+        "Title": "Darth Vader 12: Shadows and Secrets, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 535,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 537,
+        "Title": "Star Wars Annual 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 536,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 538,
+        "Title": "Darth Vader Annual 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 537,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 539,
+        "Title": "Vader Down, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 538,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 540,
+        "Title": "Darth Vader 13: Vader Down, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 539,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 541,
+        "Title": "Star Wars 13: Vader Down, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 540,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 542,
+        "Title": "Darth Vader 14: Vader Down, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 541,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 543,
+        "Title": "Star Wars 14: Vader Down, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 542,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 544,
+        "Title": "Darth Vader 15: Vader Down, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 543,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 545,
+        "Title": "Star Wars 16: Rebel Jail, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 544,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 546,
+        "Title": "Star Wars 17: Rebel Jail, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 545,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 547,
+        "Title": "Star Wars 18: Rebel Jail, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 546,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 548,
+        "Title": "Star Wars 19: Rebel Jail, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 547,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 549,
+        "Title": "Darth Vader 16: The Shu-Torun War, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 548,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 550,
+        "Title": "Darth Vader 17: The Shu-Torun War, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 549,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 551,
+        "Title": "Darth Vader 18: The Shu-Torun War, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 550,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 552,
+        "Title": "Darth Vader 19: The Shu-Torun War, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 551,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 553,
+        "Title": "Darth Vader 20: End of Games, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 552,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 554,
+        "Title": "The Misadventures of Triple-Zero and Beetee",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 553,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 555,
+        "Title": "Darth Vader 21: End of Games, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 554,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 556,
+        "Title": "Darth Vader 22: End of Games, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 555,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 557,
+        "Title": "Darth Vader 23: End of Games, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 556,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 558,
+        "Title": "Darth Vader 24: End of Games, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 557,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 559,
+        "Title": "Darth Vader 25: End of Games, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 558,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 560,
+        "Title": "Star Wars 21: The Last Flight of the Harbinger, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 559,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 561,
+        "Title": "Star Wars 22: The Last Flight of the Harbinger, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 560,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 562,
+        "Title": "Star Wars 23: The Last Flight of the Harbinger, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 561,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 563,
+        "Title": "Star Wars 24: The Last Flight of the Harbinger, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 562,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 564,
+        "Title": "Star Wars 25: The Last Flight of the Harbinger, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 563,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 565,
+        "Title": "Droid Dilemma",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 564,
+        "Year": ""
+    },
+    {
+        "Id": 566,
+        "Title": "Star Wars Annual 2",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 565,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 567,
+        "Title": "Doctor Aphra 1: Aphra, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 566,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 568,
+        "Title": "Doctor Aphra 2: Aphra, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 567,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 569,
+        "Title": "Doctor Aphra 3: Aphra, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 568,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 570,
+        "Title": "Doctor Aphra 4: Aphra, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 569,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 571,
+        "Title": "Doctor Aphra 5: Aphra, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 570,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 572,
+        "Title": "Doctor Aphra 6: Aphra, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 571,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 573,
+        "Title": "The Screaming Citadel, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 572,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 574,
+        "Title": "Star Wars 31: The Screaming Citadel, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 573,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 575,
+        "Title": "Doctor Aphra 7: The Screaming Citadel, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 574,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 576,
+        "Title": "Star Wars 32: The Screaming Citadel, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 575,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 577,
+        "Title": "Doctor Aphra 8: The Screaming Citadel, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 576,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 578,
+        "Title": "Star Wars 33: Rebels in the Wild",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 577,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 579,
+        "Title": "Doctor Aphra Annual 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 578,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 580,
+        "Title": "Doctor Aphra 9: The Enormous Profit, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 579,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 581,
+        "Title": "Doctor Aphra 10: The Enormous Profit, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 580,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 582,
+        "Title": "Doctor Aphra 11: The Enormous Profit, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 581,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 583,
+        "Title": "Star Wars 34: The Thirteen Crates",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 582,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 584,
+        "Title": "Star Wars 35: The Hutt Run",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 583,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 585,
+        "Title": "Star Wars 36: Revenge of the Astromech",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 584,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 586,
+        "Title": "Doctor Aphra 12: The Enormous Profit, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 585,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 587,
+        "Title": "Star Wars Annual 3",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 586,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 588,
+        "Title": "Star Wars 37: Imperial Pride",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 587,
+        "Year": "0 ABY"
+    },
+    {
+        "Id": 589,
+        "Title": "Doctor Aphra 13: The Enormous Profit, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 588,
+        "Year": ""
+    },
+    {
+        "Id": 590,
+        "Title": "Doctor Aphra 14: Remastered, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 589,
+        "Year": ""
+    },
+    {
+        "Id": 591,
+        "Title": "Doctor Aphra 15: Remastered, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 590,
+        "Year": ""
+    },
+    {
+        "Id": 592,
+        "Title": "Doctor Aphra 16: Remastered, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 591,
+        "Year": ""
+    },
+    {
+        "Id": 593,
+        "Title": "Doctor Aphra 17: Remastered, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 592,
+        "Year": ""
+    },
+    {
+        "Id": 594,
+        "Title": "Doctor Aphra 18: Remastered, Part V",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 593,
+        "Year": ""
+    },
+    {
+        "Id": 595,
+        "Title": "Doctor Aphra 19: Remastered, Part VI",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 594,
+        "Year": ""
+    },
+    {
+        "Id": 596,
+        "Title": "Doctor Aphra 20: Broken, Inside, Part I",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 595,
+        "Year": ""
+    },
+    {
+        "Id": 597,
+        "Title": "Star Wars 38: The Ashes of Jedha, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 596,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 598,
+        "Title": "Star Wars 39: The Ashes of Jedha, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 597,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 599,
+        "Title": "Star Wars 40: The Ashes of Jedha, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 598,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 600,
+        "Title": "Star Wars 41: The Ashes of Jedha, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 599,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 601,
+        "Title": "Star Wars 42: The Ashes of Jedha, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 600,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 602,
+        "Title": "Star Wars 43: The Ashes of Jedha, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 601,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 603,
+        "Title": "Star Wars 44: Mutiny at Mon Cala, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 602,
+        "Year": "Approx. 1 ABY"
+    },
+    {
+        "Id": 604,
+        "Title": "Star Wars 45: Mutiny at Mon Cala, Part II",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 603,
+        "Year": ""
+    },
+    {
+        "Id": 605,
+        "Title": "Star Wars 46: Mutiny at Mon Cala, Part III",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 604,
+        "Year": ""
+    },
+    {
+        "Id": 606,
+        "Title": "Star Wars 47: Mutiny at Mon Cala, Part IV",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 605,
+        "Year": ""
+    },
+    {
+        "Id": 607,
+        "Title": "Star Wars 48: Mutiny at Mon Cala, Part V",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 606,
+        "Year": ""
+    },
+    {
+        "Id": 608,
+        "Title": "Star Wars Annual 4",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 607,
+        "Year": ""
+    },
+    {
+        "Id": 609,
+        "Title": "Star Wars: The Last Jedi – The Storms of Crait 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 608,
+        "Year": ""
+    },
+    {
+        "Id": 610,
+        "Title": "Star Wars: Commander",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 609,
+        "Year": "0&#8211;3 ABY"
+    },
+    {
+        "Id": 611,
+        "Title": "Lando, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 610,
+        "Year": ""
+    },
+    {
+        "Id": 612,
+        "Title": "Lando, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 611,
+        "Year": ""
+    },
+    {
+        "Id": 613,
+        "Title": "Lando, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 612,
+        "Year": ""
+    },
+    {
+        "Id": 614,
+        "Title": "Lando, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 613,
+        "Year": ""
+    },
+    {
+        "Id": 615,
+        "Title": "Lando, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 614,
+        "Year": ""
+    },
+    {
+        "Id": 616,
+        "Title": "Han Solo, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 615,
+        "Year": ""
+    },
+    {
+        "Id": 617,
+        "Title": "Han Solo, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 616,
+        "Year": ""
+    },
+    {
+        "Id": 618,
+        "Title": "Han Solo, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 617,
+        "Year": ""
+    },
+    {
+        "Id": 619,
+        "Title": "Han Solo, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 618,
+        "Year": ""
+    },
+    {
+        "Id": 620,
+        "Title": "Han Solo, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 619,
+        "Year": ""
+    },
+    {
+        "Id": 621,
+        "Title": "Last Call at the Zero Angle",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 620,
+        "Year": ""
+    },
+    {
+        "Id": 622,
+        "Title": "Inbrief",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 621,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 623,
+        "Title": "Forces of Destiny: Episode 5: \"Beasts of Echo Base\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 622,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 624,
+        "Title": "Star Wars Adventures: Forces of Destiny: Leia",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 623,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 625,
+        "Title": "Star Wars: Episode V The Empire Strikes Back",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 624,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 626,
+        "Title": "The Empire Strikes Back: So You Want to Be a Jedi?",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 625,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 627,
+        "Title": "Star Wars: The Empire Strikes Back",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 626,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 628,
+        "Title": "Episode V: The Empire Strikes Back Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 627,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 629,
+        "Title": "The Empire Strikes Back",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 628,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 630,
+        "Title": "AT-AT Attack!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 629,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 631,
+        "Title": "Use the Force!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 630,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 632,
+        "Title": "Star Wars: Yoda's Jedi Training",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 631,
+        "Year": "3 ABY"
+    },
+    {
+        "Id": 633,
+        "Title": "Moving Target: A Princess Leia Adventure",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 632,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 634,
+        "Title": "Leia and the Great Island Escape",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 633,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 635,
+        "Title": "Star Wars: Episode VI Return of the Jedi",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 634,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 636,
+        "Title": "Return of the Jedi: Beware the Power of the Dark Side!",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 635,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 637,
+        "Title": "Star Wars: Return of the Jedi",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 636,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 638,
+        "Title": "Episode VI: Return of the Jedi Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 637,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 639,
+        "Title": "Return of the Jedi",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 638,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 640,
+        "Title": "Rescue from Jabba's Palace",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 639,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 641,
+        "Title": "Ewoks Join the Fight",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 640,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 642,
+        "Title": "Forces of Destiny: Episode 3: \"Ewok Escape\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 641,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 643,
+        "Title": "Forces of Destiny: Episode 14: \"An Imperial Feast\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 642,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 644,
+        "Title": "Blade Squadron",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 643,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 645,
+        "Title": "The Levers of Power",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 644,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 646,
+        "Title": "Shattered Empire, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 645,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 647,
+        "Title": "Shattered Empire, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 646,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 648,
+        "Title": "Shattered Empire, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 647,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 649,
+        "Title": "Turning Point",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 648,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 650,
+        "Title": "Blade Squadron: Zero Hour",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 649,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 651,
+        "Title": "Aftermath",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 650,
+        "Year": "4 ABY"
+    },
+    {
+        "Id": 652,
+        "Title": "Star Wars: Uprising",
+        "Type": "videogame",
+        "IsPublished": true,
+        "Order": 651,
+        "Year": "4&#8211;5 ABY"
+    },
+    {
+        "Id": 653,
+        "Title": "Shattered Empire, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 652,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 654,
+        "Title": "Aftermath: Life Debt",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 653,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 655,
+        "Title": "Blade Squadron: Kuat",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 654,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 656,
+        "Title": "The Ghost Ship",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 655,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 657,
+        "Title": "Aftermath: Empire's End",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 656,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 658,
+        "Title": "Blade Squadron: Jakku",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 657,
+        "Year": "5 ABY"
+    },
+    {
+        "Id": 659,
+        "Title": "Scorched",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 658,
+        "Year": ""
+    },
+    {
+        "Id": 660,
+        "Title": "Bloodline",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 659,
+        "Year": "28 ABY"
+    },
+    {
+        "Id": 661,
+        "Title": "The Legends of Luke Skywalker",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 660,
+        "Year": ""
+    },
+    {
+        "Id": 662,
+        "Title": "Phasma",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 661,
+        "Year": ""
+    },
+    {
+        "Id": 663,
+        "Title": "The Perfect Weapon",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 662,
+        "Year": ""
+    },
+    {
+        "Id": 664,
+        "Title": "High Noon on Jakku",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 663,
+        "Year": ""
+    },
+    {
+        "Id": 665,
+        "Title": "All Creatures Great and Small",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 664,
+        "Year": ""
+    },
+    {
+        "Id": 666,
+        "Title": "The Face of Evil",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 665,
+        "Year": ""
+    },
+    {
+        "Id": 667,
+        "Title": "True Love",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 666,
+        "Year": ""
+    },
+    {
+        "Id": 668,
+        "Title": "The Crimson Corsair and the Lost Treasure of Count Dooku",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 667,
+        "Year": "Approx. 31 ABY"
+    },
+    {
+        "Id": 669,
+        "Title": "Bait",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 668,
+        "Year": ""
+    },
+    {
+        "Id": 670,
+        "Title": "Better the Devil You Know, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 669,
+        "Year": ""
+    },
+    {
+        "Id": 671,
+        "Title": "Better the Devil You Know, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 670,
+        "Year": ""
+    },
+    {
+        "Id": 672,
+        "Title": "Star Wars Adventures: Forces of Destiny: Rose &amp; Paige",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 671,
+        "Year": ""
+    },
+    {
+        "Id": 673,
+        "Title": "Before the Awakening",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 672,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 674,
+        "Title": "Poe and the Missing Ship",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 673,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 675,
+        "Title": "Star Wars Special: C-3PO 1: The Phantom Limb",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 674,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 676,
+        "Title": "SaBBotage",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 675,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 677,
+        "Title": "Poe Dameron 1: Black Squadron, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 676,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 678,
+        "Title": "Poe Dameron 2: Black Squadron, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 677,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 679,
+        "Title": "Poe Dameron 3: Black Squadron, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 678,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 680,
+        "Title": "Poe Dameron 4: Lockdown, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 679,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 681,
+        "Title": "Poe Dameron 5: Lockdown, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 680,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 682,
+        "Title": "Poe Dameron 6: Lockdown, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 681,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 683,
+        "Title": "Join the Resistance",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 682,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 684,
+        "Title": "Join the Resistance: Escape from Vodran",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 683,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 685,
+        "Title": "Join the Resistance 3",
+        "Type": "junior",
+        "IsPublished": false,
+        "Order": 684,
+        "Year": ""
+    },
+    {
+        "Id": 686,
+        "Title": "Poe Dameron 7: The Gathering Storm",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 685,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 687,
+        "Title": "Poe Dameron 8: The Gathering Storm, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 686,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 688,
+        "Title": "Poe Dameron 9: The Gathering Storm, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 687,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 689,
+        "Title": "Poe Dameron 10: The Gathering Storm, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 688,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 690,
+        "Title": "Poe Dameron 11: The Gathering Storm, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 689,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 691,
+        "Title": "Poe Dameron 12: The Gathering Storm, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 690,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 692,
+        "Title": "Poe Dameron 13: The Gathering Storm, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 691,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 693,
+        "Title": "Poe Dameron 14: Legend Lost, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 692,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 694,
+        "Title": "Poe Dameron 15: Legend Lost, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 693,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 695,
+        "Title": "Poe Dameron 16: Legend Lost, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 694,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 696,
+        "Title": "Poe Dameron 17: War Stories, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 695,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 697,
+        "Title": "Poe Dameron 18: War Stories, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 696,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 698,
+        "Title": "Poe Dameron 19: War Stories, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 697,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 699,
+        "Title": "Poe Dameron Annual 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 698,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 700,
+        "Title": "Poe Dameron 20: Legend Found, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 699,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 701,
+        "Title": "Poe Dameron 21: Legend Found, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 700,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 702,
+        "Title": "Poe Dameron 22: Legend Found, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 701,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 703,
+        "Title": "Poe Dameron 23: Legend Found, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 702,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 704,
+        "Title": "Poe Dameron 24: Legend Found, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 703,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 705,
+        "Title": "Poe Dameron 25: Legend Found, Part VI",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 704,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 706,
+        "Title": "Forces of Destiny: Episode 15: \"The Happabore Hazard\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 705,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 707,
+        "Title": "Forces of Destiny: The Rey Chronicles",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 706,
+        "Year": ""
+    },
+    {
+        "Id": 708,
+        "Title": "Pest Control",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 707,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 709,
+        "Title": "Destroyer Down",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 708,
+        "Year": ""
+    },
+    {
+        "Id": 710,
+        "Title": "Poe Dameron 26: The Awakening, Part I",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 709,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 711,
+        "Title": "Star Wars: Episode VII The Force Awakens",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 710,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 712,
+        "Title": "Star Wars: The Force Awakens",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 711,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 713,
+        "Title": "Star Wars: The Force Awakens: A Junior Novel",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 712,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 714,
+        "Title": "The Force Awakens: Rey's Story",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 713,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 715,
+        "Title": "The Force Awakens: Finn's Story",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 714,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 716,
+        "Title": "Lightsaber Rescue",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 715,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 717,
+        "Title": "Rolling with BB-8!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 716,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 718,
+        "Title": "The Force Awakens storybook",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 717,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 719,
+        "Title": "The Force Awakens Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 718,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 720,
+        "Title": "The Force Awakens Golden Book",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 719,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 721,
+        "Title": "Rey to the Rescue!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 720,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 722,
+        "Title": "Finn &amp; the First Order",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 721,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 723,
+        "Title": "Rey Meets BB-8",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 722,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 724,
+        "Title": "Finn and Poe Team Up!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 723,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 725,
+        "Title": "Finn &amp; Rey Escape!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 724,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 726,
+        "Title": "Han &amp; Chewie Return!",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 725,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 727,
+        "Title": "Chaos at the Castle",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 726,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 728,
+        "Title": "The Fight in the Forest",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 727,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 729,
+        "Title": "Star Wars: The Force Awakens Graphic Novel Adaptation",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 728,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 730,
+        "Title": "The Force Awakens, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 729,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 731,
+        "Title": "The Force Awakens, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 730,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 732,
+        "Title": "The Force Awakens, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 731,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 733,
+        "Title": "The Force Awakens, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 732,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 734,
+        "Title": "The Force Awakens, Part V",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 733,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 735,
+        "Title": "The Force Awakens, Part VI",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 734,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 736,
+        "Title": "BB-8 on the Run",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 735,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 737,
+        "Title": "Forces of Destiny: Episode 1: \"Sands of Jakku\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 736,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 738,
+        "Title": "Forces of Destiny: Episode 2: \"BB-8 Bandits\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 737,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 739,
+        "Title": "Star Wars Adventures: Forces of Destiny: Rey",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 738,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 740,
+        "Title": "Forces of Destiny: Episode 11: \"Tracker Trouble\"",
+        "Type": "tv",
+        "IsPublished": true,
+        "Order": 739,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 741,
+        "Title": "The Last Jedi: Cobalt Squadron",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 740,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 742,
+        "Title": "Captain Phasma, Part I",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 741,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 743,
+        "Title": "Captain Phasma, Part II",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 742,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 744,
+        "Title": "Captain Phasma, Part III",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 743,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 745,
+        "Title": "Captain Phasma, Part IV",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 744,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 746,
+        "Title": "Star Wars Adventures Ashcan",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 745,
+        "Year": ""
+    },
+    {
+        "Id": 747,
+        "Title": "Rules of the Game",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 746,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 748,
+        "Title": "Hear Nothing, See Nothing, Say Nothing",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 747,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 749,
+        "Title": "The Wine in Dreams",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 748,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 750,
+        "Title": "The Ride",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 749,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 751,
+        "Title": "Rose Knows",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 750,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 752,
+        "Title": "Star Wars: The Last Jedi &#8211; DJ &#8211; Most Wanted 1",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 751,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 753,
+        "Title": "Star Wars: Episode VIII The Last Jedi",
+        "Type": "film",
+        "IsPublished": true,
+        "Order": 752,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 754,
+        "Title": "Star Wars: The Last Jedi: Expanded Edition",
+        "Type": "novel",
+        "IsPublished": true,
+        "Order": 753,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 755,
+        "Title": "Star Wars: The Last Jedi: A Junior Novel",
+        "Type": "junior",
+        "IsPublished": true,
+        "Order": 754,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 756,
+        "Title": "The Last Jedi storybook",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 755,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 757,
+        "Title": "The Last Jedi Read-Along Storybook and CD",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 756,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 758,
+        "Title": "The Last Jedi: Rey's Journey",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 757,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 759,
+        "Title": "The Last Jedi: Rose and Finn's Secret Mission",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 758,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 760,
+        "Title": "Star Wars: The Last Jedi Graphic Novel Adaptation",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 759,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 761,
+        "Title": "The Last Jedi Adaptation 1",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 760,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 762,
+        "Title": "The Last Jedi Adaptation 2",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 761,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 763,
+        "Title": "The Last Jedi Adaptation 3",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 762,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 764,
+        "Title": "The Last Jedi Adaptation 4",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 763,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 765,
+        "Title": "The Last Jedi Adaptation 5",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 764,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 766,
+        "Title": "The Last Jedi Adaptation 6",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 765,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 767,
+        "Title": "Chewie and the Porgs",
+        "Type": "young",
+        "IsPublished": true,
+        "Order": 766,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 768,
+        "Title": "Poe Dameron 27: The Awakening, Part II",
+        "Type": "comic",
+        "IsPublished": false,
+        "Order": 767,
+        "Year": "34 ABY"
+    },
+    {
+        "Id": 769,
+        "Title": "Tales from Wild Space: Stop, Thief!",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 768,
+        "Year": ""
+    },
+    {
+        "Id": 770,
+        "Title": "Tales from Wild Space: The Flat Mountain of Yavin",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 769,
+        "Year": ""
+    },
+    {
+        "Id": 771,
+        "Title": "Tales from Wild Space: Adventures in Wookiee-Sitting",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 770,
+        "Year": ""
+    },
+    {
+        "Id": 772,
+        "Title": "Tales from Wild Space: Mattis Makes a Stand",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 771,
+        "Year": ""
+    },
+    {
+        "Id": 773,
+        "Title": "Tales from Wild Space: The Best Pet",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 772,
+        "Year": ""
+    },
+    {
+        "Id": 774,
+        "Title": "Tales from Wild Space: Podracer's Rescue",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 773,
+        "Year": ""
+    },
+    {
+        "Id": 775,
+        "Title": "Tales from Wild Space: Look Before You Leap",
+        "Type": "comic",
+        "IsPublished": true,
+        "Order": 774,
+        "Year": ""
+    },
+    {
+        "Id": 776,
+        "Title": "Star Wars: Episode IX",
+        "Type": "film",
+        "IsPublished": false,
+        "Order": 775,
+        "Year": ""
+    },
+    {
+        "Id": 777,
+        "Title": "Whills",
+        "Type": "short",
+        "IsPublished": true,
+        "Order": 776,
+        "Year": ""
+    }
+]
