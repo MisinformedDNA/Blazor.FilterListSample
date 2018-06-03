@@ -79,12 +79,8 @@ app {
 
 header.title {
     text-align: center;
+    color: yellow;
 }
-
-    header.title img {
-        width: 75%;
-        max-width: 540px;
-    }
 
 .row {
     margin: 0 auto;
