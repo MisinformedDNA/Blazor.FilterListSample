@@ -1,21 +1,22 @@
 ﻿using Blazor.FilterListSample.Models;
 using Microsoft.AspNetCore.Blazor;
 using Microsoft.AspNetCore.Blazor.Components;
-using System.IO;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace Blazor.FilterListSample.Pages
 {
     public class IndexModel : BlazorComponent
     {
-        public Media[] MediaList { get; set; }
+        [Inject]
+        protected HttpClient HttpClient { get; set; }
+
+        public Media[] MediaList { get; set; } = new Media[0];
         public MediaType[] MediaTypes { get; set; }
 
-        protected override void OnInit()
+        protected override async Task OnInitAsync()
         {
-            var json = File.ReadAllText("media.json");
-            MediaList = JsonUtil.Deserialize<Media[]>(json);
-
-            MediaType[] DefaultMediaTypes = new MediaType[]
+            MediaTypes = new MediaType[]
             {
                 new MediaType("film", "Films"),
                 new MediaType("novel", "Novels"),
@@ -28,6 +29,8 @@ namespace Blazor.FilterListSample.Pages
                 new MediaType("junior", "Junior novels"),
                 new MediaType("unpublished", "Not yet released")
             };
+
+            MediaList = await HttpClient.GetJsonAsync<Media[]>("media.json");
         }
     }
 }
