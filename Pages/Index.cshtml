@@ -21,7 +21,7 @@
                                     continue;
                                 }
 
-                                <_ChecklistRow media="@media" IsHidden="@mediaType.IsHidden" OnStateChange="@ChecklistRowChanged" />
+                                <_ChecklistRow media="@media" IsHidden="@mediaType.IsHidden" />
                             }
                         </tbody>
                     </table>
@@ -35,13 +35,5 @@
     public void HeaderOptionsChanged()
     {
         StateHasChanged();
-    }
-
-    void ChecklistRowChanged()
-    {
-        var checkedList = MediaList
-            .Select(m => new CheckedMedia { MediaId = m.Id, IsChecked = m.IsChecked })
-            .Where(m => m.IsChecked)
-            .ToArray();
     }
 }
